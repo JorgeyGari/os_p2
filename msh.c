@@ -1,8 +1,8 @@
 //  MSH main file
 // Write your msh source code here
 
-// CODE BY: Laura Belizón Merchán and Jorge Lázaro Ruiz
-// USAGE OF THIS CODE IS STRICTLY FOR REFERENCE ONLY, DO NOT COPY
+/* CODE BY: Laura Belizón Merchán and Jorge Lázaro Ruiz
+USAGE OF THIS CODE IS STRICTLY FOR REFERENCE ONLY, DO NOT COPY */
 
 //#include "parser.h"
 #include <stddef.h> /* NULL */
